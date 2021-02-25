@@ -1,0 +1,44 @@
+
+body{
+	background: #ccc;
+	color:#000;
+	
+	
+}
+
+.container{
+	margin:auto ;
+	content: none;
+}
+
+button{
+	margin: 10px;
+
+}
+
+.dice
+{
+	border: 1px white solid;
+	
+	width: 30px;
+	height: 40px;
+	text-align: center;
+
+	margin: 40px
+}
+#dice3
+{
+	background: #b3c4e6;
+	color: white;
+	margin-left: 80px;
+}
+
+#image1,#image2{
+width: 50%;
+
+height: 25vh;
+}
+img{
+height: 100px;
+
+}
